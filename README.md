@@ -24,7 +24,7 @@ I love turning coffee ☕ into code and solving complex problems with simple and
 ## 🛠️ Technical Skills
 
 - **Languages**: Java ☕, GoLang 🚀, JavaScript  
-- **Frameworks**: Spring Boot, Spring MVC, Hibernate, YARPC  
+- **Frameworks**: Spring Boot, Spring MVC, Hibernate, YARPC , Gin, GORM
 - **Databases**: MySQL, MongoDB, OracleSQL, DynamoDB  
 - **Tools**: Docker 🐳, Kubernetes, Git, Kafka, Jenkins  
 - **Monitoring**: Grafana 📊, Kibana 🔍, Swagger  
