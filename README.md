@@ -69,21 +69,6 @@ G. Narayanamma Institute of Technology and Science (2016 - 2020) | GPA: 7.3
 
 ---
 
-## 🔥 My Awesome Repositories
-
-Here are some of the cool projects I've worked on (feel free to check them out and ⭐ them!):
-
-### 🔑 [API-Magic](https://github.com/ptejasvini/api-magic)
-A lightweight, scalable API framework built with **GoLang** and **gRPC** for high-performance applications. 🏎️
-
-### 🐳 [Microservices-Superhero](https://github.com/ptejasvini/microservices-superhero)
-A comprehensive microservices architecture template using **Docker**, **Kubernetes**, and **Spring Boot** to save the world, one API at a time! 🦸‍♀️
-
-### 🖥️ [DevOps-Ninja](https://github.com/ptejasvini/devops-ninja)
-Fully automated **CI/CD pipeline** setup with **Jenkins**, **Docker**, and **Kubernetes** for streamlined deployments. ⚡
-
----
-
 ## 💬 Let's Connect
 
 - **Email**: tejasvinipunjala98@gmail.com  
