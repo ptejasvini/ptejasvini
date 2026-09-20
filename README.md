@@ -1,6 +1,6 @@
 # Tejasvini Punjala
 
-**Go Backend Engineer**  &nbsp;·&nbsp;  6+ years experience  &nbsp;·&nbsp;  Hyderabad, India
+**Go Backend Engineer**  &nbsp;·&nbsp;  5+ years experience  &nbsp;·&nbsp;  Hyderabad, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejasvini%20Punjala-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasvini-punjala/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-tejasvini1-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tejasvini1)
@@ -11,7 +11,7 @@
 
 ## About
 
-Backend engineer with 4+ years of production Go and 6+ years overall, building microservices, REST/gRPC APIs, and data pipelines for large-scale platforms at Uber and Cisco.
+Backend engineer with 4+ years of production Go and 5+ years overall, building microservices, REST/gRPC APIs, and data pipelines for large-scale platforms at Uber and Cisco.
 
 I focus on getting the fundamentals right — concurrent system design, clean API contracts, reliable data access patterns, and production observability. I have contributed to high-traffic systems serving millions of users and worked across the full backend lifecycle from Thrift IDL definitions and Protobuf schema design through to Kubernetes deployments and on-call incident resolution.
 
