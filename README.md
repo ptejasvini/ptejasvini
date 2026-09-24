@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejasvini%20Punjala-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasvini-punjala/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-tejasvini1-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tejasvini1)
 [![HackerRank](https://img.shields.io/badge/HackerRank-tejasvinipunjal1-darkgreen?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tejasvinipunjal1)
-[![Email](https://img.shields.io/badge/Email-tejasvinipunjala98@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tejasvinipunjala98@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tejasvinipunjala98@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tejasvinipunjala9911@gmail.com)
 
 ---
 
