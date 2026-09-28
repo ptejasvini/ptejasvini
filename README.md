@@ -11,7 +11,7 @@
 
 ## About
 
-Backend engineer with 4+ years of production Go and 5+ years overall, building microservices, REST/gRPC APIs, and data pipelines for large-scale platforms at Uber and Cisco.
+Backend engineer with 5+ years of production Go and 6 years overall, building microservices, REST/gRPC APIs, and data pipelines for large-scale platforms at Uber and Cisco.
 
 I focus on getting the fundamentals right — concurrent system design, clean API contracts, reliable data access patterns, and production observability. I have contributed to high-traffic systems serving millions of users and worked across the full backend lifecycle from Thrift IDL definitions and Protobuf schema design through to Kubernetes deployments and on-call incident resolution.
 
